@@ -11,7 +11,7 @@ The dataset contains stock information for various banks, including:
 - Stock info: Open, High, Low, Close, Volume
 - Dates: Daily data from 2006-01-03 onwards
 
-The dataset can be found on Kaggle using this link [here](https://www.kaggle.com/datasets/vladmarascu/databanks)
+The dataset can be found on Kaggle [here](https://www.kaggle.com/datasets/vladmarascu/databanks)
 
 ## Installation
 
